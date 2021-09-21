@@ -24,6 +24,7 @@ GEM
     rspec-support (3.10.2)
 
 PLATFORMS
+  x64-mingw32
   x86_64-darwin-20
 
 DEPENDENCIES
